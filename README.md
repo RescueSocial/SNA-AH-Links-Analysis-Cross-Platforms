@@ -1,4 +1,4 @@
-# SNA-AH-Links-News-Cross-Platforms
+# SNA-AH-Links-Analysis-Cross-Platforms
 <b>Cross-Platform Social Network Analysis of Links and analysis, monitoring of Petitions/News/Videos on Amber Heard.</b>
 
 Checking the domains, links, on social platforms and search engines about a person. 
