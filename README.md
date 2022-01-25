@@ -46,7 +46,6 @@ import pandas as pd
 import urlexpander
 
 def unshorten_one(url):
-
     try:
         short = urlexpander.expand(url)
     except requests.exceptions.MissingSchema:
@@ -54,7 +53,7 @@ def unshorten_one(url):
     except requests.ConnectionError:
         short = "connection error"
         
-    if "__CLIENT_ERROR__" in short:
+    if "__CLIENT_ERROR__" in short or "__CONNECTIONPOOL_ERROR__"  in short:
         try:
             r = requests.get(url, allow_redirects=False)
             try:
