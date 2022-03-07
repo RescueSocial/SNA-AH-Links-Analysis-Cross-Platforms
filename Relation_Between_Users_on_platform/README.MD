@@ -6,6 +6,6 @@
 
       * Second Column is (user.screen_name) which contain All User which sharerd the same url 
 
-      * Third colum  which have number of url which shared 
+      * Third column  which have number of Shared url 
 
       * fourth column User which shared Same url
