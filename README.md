@@ -1,4 +1,11 @@
 # SNA-AH-Links-Analysis-Cross-Platforms
+
+## IMPORTANT
+- You should get the keys of your kaggle account
+- Go to kaggle account, account option, Create api token.
+- JSON file will eb downloaded named "kaggle.json", just add it to repositry you
+
+
 **Cross-Platform Social Network Analysis of Links and analysis, monitoring of Petitions/News/Videos on Amber Heard.**
 
 Checking the domains, links, on social platforms and search engines about a person. 
