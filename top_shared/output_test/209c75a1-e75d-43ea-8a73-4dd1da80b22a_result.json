@@ -1,0 +1,72 @@
+{
+    "behaviors": [],
+    "metrics": {
+        "avg_tweet_per_user": 0,
+        "breakout_scale": 1,
+        "interaction": {
+            "facebook": 41,
+            "gab": 0,
+            "original_tweet": 0,
+            "parler": 0,
+            "reddit": 372,
+            "reply": 0,
+            "retweet": 0,
+            "telegram": 0,
+            "youtube": 0
+        },
+        "top_10_percent_tweet": 0,
+        "total_interaction": 413
+    },
+    "posts": {
+        "facebook": [
+            {
+                "d": "#justiceforjohnnydepp #amberheard #metoo Hey everyone! Welcome back. This new video and audio was first reported on by the Daily Mail. It is from Amber's 201...",
+                "i": 41,
+                "n": "IFOD",
+                "t": "2020-03-18T12:55:09"
+            }
+        ],
+        "gab": [],
+        "instagram": [],
+        "original_tweet": [],
+        "reddit": [
+            {
+                "d": "Johnny Depp & Amber Heard Abuse Claims: Amber Caught Lying Under Oath! NEW AUDIO and VIDEO! OP: Found this video of someone analyzing a testimony from Amber Heard and points out every one of her lies using her own words against her. Interesting watch for anyone interested in the case.",
+                "i": 316,
+                "n": "Men's Rights :: Advocating for the social and legal equality of men and boys since 2008",
+                "t": "2020-03-26T23:48:28"
+            },
+            {
+                "d": "Johnny Depp & Amber Heard Abuse Claims: Amber Caught Lying Under Oath! NEW AUDIO and VIDEO!",
+                "i": 39,
+                "n": "Men's Rights :: Advocating for the social and legal equality of men and boys since 2008",
+                "t": "2020-04-21T21:57:24"
+            },
+            {
+                "d": "Johnny Depp & Amber Heard Abuse Claims: Amber Caught Lying Under Oath! NEW AUDIO and VIDEO!",
+                "i": 13,
+                "n": "Pussy Pass Denied",
+                "t": "2020-04-21T21:56:13"
+            },
+            {
+                "d": "Johnny Depp & Amber Heard Abuse Claims: Amber Caught Lying Under Oath.",
+                "i": 4,
+                "n": "/r/videos",
+                "t": "2020-03-20T14:23:17"
+            },
+            {
+                "d": "Amber Heard caught lying under oath in Johnny Depp domestic abuse trial.",
+                "i": 0,
+                "n": "/r/videos",
+                "t": "2020-03-18T15:24:00"
+            }
+        ],
+        "reply": [],
+        "retweet": [],
+        "telegram": [],
+        "youtube": []
+    },
+    "term": "youtube.com/watch?v=hwkb80xzdus",
+    "topics": [],
+    "visualization_url": "https://informationtracer.com/?url=youtube.com/watch?v=hwkb80xzdus"
+}

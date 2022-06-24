@@ -1,0 +1,84 @@
+{
+    "behaviors": [],
+    "metrics": {
+        "avg_tweet_per_user": 0,
+        "breakout_scale": 2,
+        "interaction": {
+            "facebook": 131,
+            "gab": 0,
+            "original_tweet": 0,
+            "parler": 0,
+            "reddit": 483,
+            "reply": 0,
+            "retweet": 0,
+            "telegram": 0,
+            "youtube": 0
+        },
+        "top_10_percent_tweet": 0,
+        "total_interaction": 614
+    },
+    "posts": {
+        "facebook": [
+            {
+                "d": "#johnnydepp #amberheard #metoo #timesup Hey everyone! Welcome back! Or if you're here for the first time, I welcome you just the same! This is a pretty strai...",
+                "i": 60,
+                "n": "JohnnyDepp.ru",
+                "t": "2019-09-16T21:11:02"
+            },
+            {
+                "d": "#johnnydepp #amberheard #metoo #timesupHey everyone! Welcome back! Or if you're here for the first time, I welcome you just the same!This is a pretty strai...",
+                "i": 52,
+                "n": "Christians Against Buzz Lightyear",
+                "t": "2022-05-17T13:50:42"
+            },
+            {
+                "d": "#johnnydepp #amberheard #metoo #timesup Hey everyone! Welcome back! Or if you're here for the first time, I welcome you just the same! This is a pretty strai...",
+                "i": 19,
+                "n": "\"Johnny Depp Official Fan group\" || INTERNATIONAL ||",
+                "t": "2019-09-28T13:56:44"
+            }
+        ],
+        "gab": [],
+        "instagram": [],
+        "original_tweet": [],
+        "reddit": [
+            {
+                "d": "Full list of audio exhibits, with my transcripts and analysis!",
+                "i": 312,
+                "n": "deppVheardtrial",
+                "t": "2022-06-01T13:39:54"
+            },
+            {
+                "d": "I've written transcripts of the audios (plus commentaries)",
+                "i": 60,
+                "n": "Justice For Johnny Depp",
+                "t": "2022-05-15T20:10:33"
+            },
+            {
+                "d": "Great video on Amber Heards deposition and why Johnny Depp is suing her.",
+                "i": 55,
+                "n": "Men's Rights :: Advocating for the social and legal equality of men and boys since 2008",
+                "t": "2019-09-15T01:48:59"
+            },
+            {
+                "d": "Full list of audio exhibits, with my transcripts and analysis!",
+                "i": 41,
+                "n": "Justice For Johnny Depp",
+                "t": "2022-05-31T18:14:04"
+            },
+            {
+                "d": "Amber lied about several audio clips in her testimony!",
+                "i": 15,
+                "n": "Justice For Johnny Depp",
+                "t": "2022-05-17T12:39:02"
+            }
+        ],
+        "reply": [],
+        "retweet": [],
+        "telegram": [],
+        "youtube": []
+    },
+    "term": "youtube.com/watch?v=pbxtr41zftq",
+    "topics": [],
+    "visualization_url": "https://informationtracer.com/?url=youtube.com/watch?v=pbxtr41zftq"
+}

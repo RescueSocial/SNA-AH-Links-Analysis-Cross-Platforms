@@ -1,0 +1,47 @@
+{
+    "behaviors": [],
+    "metrics": {
+        "avg_tweet_per_user": 0,
+        "breakout_scale": 1,
+        "interaction": {
+            "facebook": 105,
+            "gab": 0,
+            "original_tweet": 0,
+            "parler": 0,
+            "reddit": 0,
+            "reply": 0,
+            "retweet": 0,
+            "telegram": 0,
+            "youtube": 0
+        },
+        "top_10_percent_tweet": 0,
+        "total_interaction": 105
+    },
+    "posts": {
+        "facebook": [
+            {
+                "d": "Brad Pitt Being Thirsted Over By Female Celebrities (Jennifer Lawrence, Margot Robbie +) \u2764\ufe0f Welcome To Comedy Space! I'm the owner of This channel (this is N...",
+                "i": 105,
+                "n": "Brad Pitt",
+                "t": "2020-05-17T01:15:46"
+            },
+            {
+                "d": "Brad Pitt Being Thirsted Over By Female Celebrities (Jennifer Lawrence, Margot Robbie +) \u2764\ufe0f Welcome To Comedy Space! I'm the owner of This channel (this is N...",
+                "i": 0,
+                "n": "CINEMANIACS",
+                "t": "2020-01-29T19:27:07"
+            }
+        ],
+        "gab": [],
+        "instagram": [],
+        "original_tweet": [],
+        "reddit": [],
+        "reply": [],
+        "retweet": [],
+        "telegram": [],
+        "youtube": []
+    },
+    "term": "youtube.com/watch?v=sbtweshyxhu",
+    "topics": [],
+    "visualization_url": "https://informationtracer.com/?url=youtube.com/watch?v=sbtweshyxhu"
+}

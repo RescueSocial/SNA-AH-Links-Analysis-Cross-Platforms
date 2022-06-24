@@ -1,0 +1,34 @@
+{
+    "behaviors": [],
+    "metrics": {
+        "avg_tweet_per_user": 0,
+        "breakout_scale": 0,
+        "interaction": {
+            "facebook": 0,
+            "gab": 0,
+            "original_tweet": 0,
+            "parler": 0,
+            "reddit": 0,
+            "reply": 0,
+            "retweet": 0,
+            "telegram": 0,
+            "youtube": 0
+        },
+        "top_10_percent_tweet": 0,
+        "total_interaction": 0
+    },
+    "posts": {
+        "facebook": [],
+        "gab": [],
+        "instagram": [],
+        "original_tweet": [],
+        "reddit": [],
+        "reply": [],
+        "retweet": [],
+        "telegram": [],
+        "youtube": []
+    },
+    "term": "youtube.com/watch?v=AO12UAR9WlE",
+    "topics": [],
+    "visualization_url": "https://informationtracer.com/?url=youtube.com/watch?v=AO12UAR9WlE"
+}

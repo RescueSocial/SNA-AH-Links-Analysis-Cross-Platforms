@@ -1,0 +1,41 @@
+{
+    "behaviors": [],
+    "metrics": {
+        "avg_tweet_per_user": 0,
+        "breakout_scale": 0,
+        "interaction": {
+            "facebook": 14,
+            "gab": 0,
+            "original_tweet": 0,
+            "parler": 0,
+            "reddit": 0,
+            "reply": 0,
+            "retweet": 0,
+            "telegram": 0,
+            "youtube": 0
+        },
+        "top_10_percent_tweet": 0,
+        "total_interaction": 14
+    },
+    "posts": {
+        "facebook": [
+            {
+                "d": "Thousands of people have gathered in downtown for the 4th annual Women's March and the Walk For Life. https://abc7.la/2XC5l3K:=:https://abc7.com/watch/23340/",
+                "i": 14,
+                "n": "The Alt-Centrist",
+                "t": "2020-02-03T18:07:38"
+            }
+        ],
+        "gab": [],
+        "instagram": [],
+        "original_tweet": [],
+        "reddit": [],
+        "reply": [],
+        "retweet": [],
+        "telegram": [],
+        "youtube": []
+    },
+    "term": "youtube.com/watch?v=smo8wh0f8tc",
+    "topics": [],
+    "visualization_url": "https://informationtracer.com/?url=youtube.com/watch?v=smo8wh0f8tc"
+}
